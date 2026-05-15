@@ -57,9 +57,6 @@ export default function HomeScreen() {
         Doação de Materiais
       </Text>
 
-      <Text style={styles.subtitulo}>
-        ODS 1 e ODS 10
-      </Text>
 
       <TextInput
         style={styles.input}
